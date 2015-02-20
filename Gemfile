@@ -6,6 +6,8 @@ gem 'jquery-ui-rails'
 gem 'less-rails-bootstrap', '~> 3.0'
 gem "font-awesome-rails"
 
+gem 'rails_12factor', group: :production
+
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
